@@ -31,6 +31,7 @@ of Korea Army (20.07 - 22.01) <br>
     <img src="https://img.shields.io/badge/Visaul Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </div>
 
 <h3 align="center"> 📫 Contact 📫</h3>
